@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498530351260",
+    "project_id": "graduation-project-39471",
+    "storage_bucket": "graduation-project-39471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498530351260:android:e2b6ff12ca6aefcc70d559",
+        "android_client_info": {
+          "package_name": "com.example.khedma_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCryKg2WKpnXVGZbV0RE5YDCs7JZ_Z-714"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
